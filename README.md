@@ -1,3 +1,15 @@
+# Historical placeholder repository
+
+> **Status:** historical 2025 future-scenarios prototype / Svelte scaffold · preserved for provenance.
+>
+> This repository records an early **BHRIGU Future Scenarios** prototype. The current repository content is a minimal Svelte application scaffold and does **not** constitute current Φ Research Systems prospective intelligence, prediction authority, or a current public future-scenarios product.
+>
+> **Current authority:** [AiBhrigu public system hierarchy](https://github.com/AiBhrigu/AiBhrigu) · [Φ Research Systems](https://www.bhrigu.io/systems?lang=en)
+>
+> Historical scaffold files, prototype copy, deployment experiments, credits, and commit history below are intentionally preserved unchanged.
+
+---
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
